@@ -13,8 +13,14 @@ I'm a Data Analyst passionate about turning data into meaningful insights. With 
 ![Excel](https://img.shields.io/badge/excel-6aa84f?style=for-the-badge&logo=excel&logoColor=black)
 ![Natural Language Processing](https://img.shields.io/badge/Natural--Language--Processing-%23013243.svg?style=for-the-badge&logo=NaturalLanguageProcessing&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-4479A1.svg?style=for-the-badge&logo=XGBoost&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google--Sheets-%23ffffff.svg?style=for-the-badge&logo=Google--Sheets&logoColor=black) ![PowerPoint](https://img.shields.io/badge/PowerPoint-3670A0?style=for-the-badge&logo=PowerPoint&logoColor=ffdd54)
 
-# 🌍 Visitors:
-![Visitor Count](https://visitcount.itsvg.in/api?id=Sidd1032&label=Profile%20Views&color=6&icon=5&pretty=true)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![NLP](https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=Google-Assistant&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sidd1032&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
