@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Kumar Siddharth </h1>
 <h1 align="center">Welcome to my GitHub profile! </h1> 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C200&width=435&lines=Hello%2C+I'm+Kumar+Siddharth!;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI)
 
 # 💫 About Me:
 I'm a Data Analyst passionate about turning data into meaningful insights. With experience in Python, SQL, Power BI, and Machine Learning, I enjoy solving complex problems and building data-driven solutions.
