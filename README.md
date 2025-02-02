@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Kumar Siddharth 👋</h1>
-
+<h1 align="center">Hello, I'm Kumar Siddharth </h1>
+<h1 align="center">Welcome to my GitHub profile! </h1> 
 
 # 💫 About Me:
 I'm a Data Analyst passionate about turning data into meaningful insights. With experience in Python, SQL, Power BI, and Machine Learning, I enjoy solving complex problems and building data-driven solutions.
